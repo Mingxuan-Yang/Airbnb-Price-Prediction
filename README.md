@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a [Kaggle competition](https://www.kaggle.com/c/duke-cs671-fall20-airbnb-pricing-data/overview) project to predict the prices of Airbnb listing places in Buenos Aires, the capital and largest city of Argentina. The price in the Kaggle dataset has been divided into 4 categories, from the cheapest to the most expensive labelled as 1 to 4. Thus the price prediction problem in this project is a multiclass classification problem instead of a regression problem. Therefore, accuracy is applied as a model evaluation method.
+This is a [Kaggle competition](https://www.kaggle.com/c/duke-cs671-fall20-airbnb-pricing-data/overview) project to apply machine learning methods to predict the prices of Airbnb listing places in Buenos Aires, the capital and largest city of Argentina. The price in the Kaggle dataset has been divided into 4 categories, from the cheapest to the most expensive labelled as 1 to 4. Thus the price prediction problem in this project is a multiclass classification problem instead of a regression problem. Therefore, accuracy is used as a model evaluation method.
 
 ## Contents
 
